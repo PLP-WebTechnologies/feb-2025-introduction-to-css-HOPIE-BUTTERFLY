@@ -1,0 +1,41 @@
+mg {
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+    margin: auto;
+}
+
+body {
+    background-color: aliceblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0%;
+    padding: 0%;
+    color:rgb(99, 9, 99);
+}
+
+#head {
+    text-align: center;
+
+}
+
+#p2 {
+    margin-left:20px ;
+    margin-top: 250px;
+ }
+
+
+div{
+    display: flex;
+    max-width: 1000px;
+    margin: auto;
+    border: 2px solid purple;
+    
+}
+
+.foot { 
+    margin-top: 15px;
+    padding: 2px;
+    background-color: plum;
+    text-align: center;
+
+}
